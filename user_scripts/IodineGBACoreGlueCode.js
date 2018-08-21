@@ -23,6 +23,8 @@ var games = {
     "bomberman_max2blue":"Bomberman Max 2 - Blue Advance",
     "bomberman_tournament":"Bomberman Tournament",
     "bubblebobble":"Bubble Bobble",
+    "clover":"clover",
+    "snakewood":"snakewood",
     "croket1":"Croket! - Yume no Banker Survival!",
     "croket2":"Croket! 2 - Yami no Bank to Banqueen",
     "croket3":"Croket! 3 - Granu Oukoku no Nazo",
