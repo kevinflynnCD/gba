@@ -25,6 +25,8 @@ var games = {
     "bubblebobble":"Bubble Bobble",
     "clover":"clover",
     "snakewood":"snakewood",
+    "ppin":"ppin"
+    "sims2":"sims2"
     "croket1":"Croket! - Yume no Banker Survival!",
     "croket2":"Croket! 2 - Yami no Bank to Banqueen",
     "croket3":"Croket! 3 - Granu Oukoku no Nazo",
